@@ -1,2 +1,24 @@
 /*NAVBAR*/
+
 /*HEADER*/
+
+header {
+ background-image: linear-gradient(120deg, rgba(132, 250, 176, 0.4) 0%, rgba(143, 211, 244, 0.6) 100%);
+}
+
+#title {
+ color: #5C5C5C;
+ text-align: center;
+
+
+}
+
+h1 {
+ font-size: 200px;
+
+}
+
+h2 {
+ font-size: 30px;
+
+}
